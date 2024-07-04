@@ -1,0 +1,7 @@
+source:      .
+destination: ./_site
+includes:    ./_includes
+# baseurl: /sbrahim
+collections:
+  projects:
+    output: true

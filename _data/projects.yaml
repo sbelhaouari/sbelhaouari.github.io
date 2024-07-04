@@ -1,0 +1,54 @@
+projects:
+  - title: "MADL: A Multilevel Architecture of Deep Learning"
+    subtitle: "Improving CNN Performance with Multilevel Deep Learning Architecture (MADL)"
+    thumbnail: "assets/projects/MADL/madl1.png"
+    url: "projects/madl.html"
+    selected: y
+
+  - title: "A novel Time-Frequency decomposition"
+    subtitle: "Tool for Mapping Social Networks"
+    # thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
+    # url: "projects/2016_human-atlas.html"
+    selected: y
+
+  - title: "Smart Pruning of Deep Neural Networks"
+    subtitle: "Pilot project in Jun, Spain"
+    # thumbnail: "assets/projects/2015_jun/thumbnail.png"
+    # url: "projects/2015_jun.html"
+    selected: y
+
+  - title: "Divide well to merge better: A novel clustering algorithm"
+    subtitle: "Learning Local Collective Embeddings"
+    # thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
+    # url: "projects/2014_item-cold-start.html"
+    selected: y
+
+  - title: "KNNOR: An oversampling technique for imbalanced datasets"
+    subtitle: "Iterative Hybrid Algorithm"
+    # thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
+    # url: "projects/2013_iterative-hybrid-algorithm.html"
+    selected: y
+
+  - title: "Unsupervised outlier detection in multidimensional data"
+    subtitle: "Analyzing Financial Tweets"
+    # thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
+    # url: "projects/2011_twitter-sentiment-analysis.html"
+    selected: y
+
+  - title: "Multi-Cluster Jumping Particle Swarm Optimization for Fast Convergence"
+    subtitle: "Automatic Wordnet Construction using Language Models"
+    # thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
+    # url: "projects/2010_wordnet-contruction.html"
+    selected: y
+
+  - title: "Distance Based Joint Probability Density Estimation for Unsupervised Outlier Detection"
+    subtitle: "Image processing class project"
+    # thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
+    # url: "projects/2010_fingerprint-verification.html"
+    selected: y
+
+  - title: "Feature extraction and Feature selection technique"
+    subtitle: "Iterative deepening and alpha-beta pruning"
+    # thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
+    # url: "projects/2009_connect-four.html"
+    selected: y

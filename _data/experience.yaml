@@ -1,0 +1,61 @@
+experiences:
+
+- place: "Hamad Bin Khalifa Unniversity, Qatar"
+  time: "2016 - now"
+  title: "Associate Professor"
+  subtitle: "College Of Science & Engg"
+  category: "work"
+
+- place: "University of Sharjah, UAE"
+  time: "2015 - 2017"
+  title: "Associate Professor"
+  subtitle: "College of Science"
+  category: "work"
+
+- place: "INNOPOLIS University, Russia"
+  time: "2014 - 2016"
+  title: "Associate Professor"
+  subtitle: "College of Science"
+  category: "work"
+
+- place: "ALFAISAL University, KSA"
+  time: "2012 - 2015"
+  title: "Vice Dean"
+  subtitle: "College of Science and General Studies"
+  category: "work"
+
+- place: "UTP, Malaysia"
+  time: "2009 - 2012"
+  title: "Assistant Professor"
+  subtitle: "Fundamental Applied Science"
+  category: "work"
+
+
+- place: "UTP, Malaysia"
+  time: "2007 - 2009"
+  title: "Assistant Professor"
+  subtitle: "Electrical and Electronic Engineering"
+  category: "work"
+
+
+- place: "EPFL, Switzerland"
+  time: "2001 - 2006"
+  title: "Research Assistant"
+  subtitle: "Laboratory of Stochastic Processes"
+  category: "work"
+
+
+
+- place: "EPFL, Switzerland"
+  time: "2002 - 2006"
+  title: "Ph.D. Student"
+  subtitle: "Mathematical Sciences : Stochastic processes and applications"
+  category: "school"
+
+
+
+- place: "INP/ENSEEIHT, France"
+  time: "1999 - 2000"
+  title: "M.Sc. Student"
+  subtitle: "Networks and Telecommunications: Signal/Image Processing"
+  category: "school"

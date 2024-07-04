@@ -1,0 +1,154 @@
+papers:
+
+  - title: "Oversampling techniques for imbalanced data in regression"
+    authors: "<b>Belhaouari, Samir Brahim</b>, Ashhadul Islam, Khelil Kassoul, Ala Al-Fuqaha, and Abdesselam Bouzerdoum"
+    venue: "Expert Systems with Applications 252 (2024): 124118"
+    paper_pdf: "/assets/publications/2024/knnor-reg.pdf"
+    selected: y
+
+  - title: "A Novel Fractional Edge Detector Based on Generalized Fractional Operator"
+    authors: "Elgezouli, Diaa Diaa Eldin, Mohamed Abdoon, <b>Samir Brahim Belhaouari</b>, and Dalal Khalid Almutairi."
+    venue: "European Journal of Pure and Applied Mathematics 17, no. 2 (2024): 1009-1028."
+    paper_pdf: "/assets/publications/2024/NovfE.pdf"
+    # code: "https://github.com/msaveski/counterfactual-peer-review"
+    selected: y
+
+  - title: "Introducing Novel Radon Based Transform for Disease Detection From Chest X-Ray Images"
+    authors: "Ashhadul Islam, Farida Mohsen, Zubair Shah, <b>Samir Brahim Belhaouari</b>"
+    venue: "2024 6th International Conference on Pattern Analysis and Intelligent Systems (PAIS)"
+    paper_pdf: "/assets/publications/2024/PAIS2024-2-1.pdf"
+    selected: y
+
+  - title: "Defense against adversarial attacks: robust and efficient compressed optimized neural networks"
+    authors: "Insaf Kraidia, Afifa Ghenai & <b>Samir Brahim Belhaouari</b>"
+    venue: "Scientific Reports 14, no. 1 (2024): 6420"
+    paper_pdf: "/assets/publications/2024/Def.pdf"
+    # code: "https://github.com/msaveski/twitter_perspective_taking"
+    # data: "https://github.com/msaveski/twitter_perspective_taking"
+    selected: y
+
+  - title: "Exploring new horizons in neuroscience disease detection through innovative visual signal analysis"
+    authors: "Nisreen Said Amer & <b>Samir Brahim Belhaouari</b>"
+    venue: "Scientific Reports"
+    paper_pdf: "/assets/publications/2024/explNH.pdf"
+    # code: "https://github.com/msaveski/toxic_conversation_structure"
+    # data: "https://doi.org/10.7910/DVN/TRWPVB"
+    # video: "https://www.youtube.com/watch?v=JLkUgxH92pE"
+    selected: y
+
+  - title: "A novel few shot learning derived architecture for long-term HbA1c prediction"
+    authors: "Marwa Qaraqe, Almiqdad Elzein, <b>Samir Belhaouari</b>, Md Shafiq Ilam & Goran Petrovski "
+    venue: "Scientific Reports"
+    paper_pdf: "/assets/publications/2024/hba1c.pdf"
+    # code: "https://github.com/facebookresearch/social-catalysts"
+    selected: y
+
+  - title: "A Novel Light Reflection-Random Walk for Smart Sensors Relocation"
+    authors: "Nadia Belguerche, <b>Samir Brahim Belhaouari</b>, Noureddine Lasla & Mahfoud Benchaïba"
+    venue: "Journal of Network and Systems Management"
+    paper_pdf: "/assets/publications/2024/ranWalk.pdf"
+    # code: "https://github.com/sanzeed/balanced_influence_maximization"
+    # data: "https://github.com/sanzeed/balanced_influence_maximization"
+    selected: y
+
+  - title: "A collaborative filtering recommendation framework utilizing social networks"
+    authors: "Aamir Fareed, Saima Hassan, <b>Samir Brahim Belhaouari</b>, Zahid Halim"
+    venue: "Machine Learning with Applications"
+    paper_pdf: "/assets/publications/2023/colfil.pdf"
+    # code: "https://doi.org/10.7910/DVN/HDT2RN"
+    # data: "https://doi.org/10.7910/DVN/HDT2RN"
+    selected: y
+
+  - title: "Deep learning based multimodal urban air quality prediction and traffic analytics"
+    authors: "Saad Hameed, Ashadul Islam, Kashif Ahmad, <b>Samir Brahim Belhaouari</b>, Junaid Qadir & Ala Al-Fuqaha"
+    venue: "Scientific Reports"
+    paper_pdf: "/assets/publications/2023/dlair.pdf"
+    selected: y
+
+  - title: "Progressive Fourier Transform (PFT): Enhancing Time-Frequency Representation of EEG signals for Stress and Seizure Detection"
+    authors: "Nisreen S Amer, <b>Samir Brahim Belhaouari</b>, Halima Bensmail"
+    venue: "Nisreen S Amer, Samir Brahim Belhaouari, Halima Bensmail"
+    selected: y
+
+  - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization"
+    authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
+    venue: "WWW'18: International Conference on the World Wide Web. 2018. <b>(Honarable mention)</b>"
+    paper_pdf: "/assets/publications/2018_social_mirror/paper.pdf"
+    video: "https://drive.google.com/file/d/0B9-P1m1JkZA7UTRuMUFWcTNueXM/view"
+    selected: n
+
+  - title: "Detecting Network Effects: Randomizing Over Randomized Experiments"
+    authors: "<b>Martin Saveski<sup>‡</sup></b>, Jean Pouget-Abadie<sup>‡</sup>, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"
+    venue: "KDD'17: International Conference on Knowledge Discovery and Data Mining. 2017. (Research Track)"
+    paper_pdf: "/assets/publications/2017_detecting_network_effects/paper.pdf"
+    slides: "/assets/publications/2017_detecting_network_effects/slides.pdf"
+    video: "https://www.youtube.com/watch?v=1v5_CzdRVAc"
+    selected: n
+
+  - title: "Human Atlas: A Tool for Mapping Social Networks"
+    authors: "<b>Martin Saveski</b>, Eric Chu, Soroush Vosoughi, Deb Roy"
+    venue: "WWW'16: International Conference on the World Wide Web. 2016. (Demo)"
+    paper_pdf: "/assets/publications/2016_human_atlas/paper.pdf"
+    video: "https://www.youtube.com/watch?v=OQOUHkJdA-U"
+    selected: n
+
+  - title: "Topic Modeling in Twitter: Aggregating Tweets by Conversations"
+    authors: "David Alvarez-Melis<sup>‡</sup>, <b>Martin Saveski<sup>‡</sup></b>"
+    venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
+    paper_pdf: "/assets/publications/2016_twitter_topic_modeling/paper.pdf"
+    poster: "/assets/publications/2016_twitter_topic_modeling/poster.pdf"
+    selected: n
+
+  - title: "Tracking the Yak: An Empirical Study of Yik Yak"
+    authors: "<b>Martin Saveski</b>, Sophie Chou, Deb Roy."
+    venue: "ICWSM'16: International AAAI Conference on Web and Social Media. 2016. (Short Paper)"
+    paper_pdf: "/assets/publications/2016_yikyak/paper.pdf"
+    poster: "/assets/publications/2016_yikyak/poster.pdf"
+    selected: n
+
+  - title: "One-Pass Ranking Models for Low-Latency Product Recommendations"
+    authors: "Antonino Freno, <b>Martin Saveski</b>, Rodolphe Jenatton, Cédric Archambeau"
+    venue: "KDD'15: International Conference on Knowledge Discovery and Data Mining. 2015. (Industry Track)"
+    paper_pdf: "/assets/publications/2015_one_pass_ranking_models/paper.pdf"
+    poster: "/assets/publications/2015_one_pass_ranking_models/poster.pdf"
+    slides: "/assets/publications/2015_one_pass_ranking_models/slides.pdf"
+    selected: n
+
+  - title: "Item Cold-Start Recommendations: Learning Local Collective Embeddings"
+    authors: "<b>Martin Saveski</b>, Amin Mantrach."
+    venue: "RecSys'14, ACM Conference Series on Recommender Systems. 2014."
+    paper_pdf: "/assets/publications/2014_item_cold_start/paper.pdf"
+    slides: "/assets/publications/2014_item_cold_start/slides.pdf"
+    code: "https://github.com/msaveski/LCE"
+    selected: n
+
+  - title: "The Geography of Online News Engagement"
+    authors: "<b>Martin Saveski</b>, Daniele Quercia, Amin Mantrach"
+    venue: "Socinfo'14: International Conference on Social Informatics. 2014."
+    paper_pdf: "/assets/publications/2014_geography_of_news/paper.pdf"
+    selected: n
+
+  - title: "Joint semi-supervised Learning of Hidden Conditional Random Fields and Hidden Markov Models"
+    authors: "Yann Soullard, <b>Martin Saveski</b>, Thierry Artières"
+    venue: "Pattern Recognition Letters. 2013."
+    paper_pdf: "/assets/publications/2014_joint_semi_supervised_learning/paper.pdf"
+    selected: n
+
+  - title: "Web Services for Stream Mining: A Stream-Based Active Learning Use Case"
+    authors: "<b>Martin Saveski</b>, Miha Grčar"
+    venue: "ECML'11, Workshop on Planning to Learn and Service-Oriented Knowledge Discovery. 2011."
+    paper_pdf: "/assets/publications/2011_active_learning/paper.pdf"
+    selected: n
+
+  - title: "Automatic Construction of Wordnets by Using Machine Translation and Language Modeling"
+    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
+    venue: "In Proceedings of Seventh Language Technologies Conference. 2010."
+    paper_pdf: "/assets/publications/2010_wordnet_construction/paper.pdf"
+    slides: "/assets/publications/2010_wordnet_construction/slides.pdf"
+    selected: n
+
+  - title: "Development of an English-Macedonian Machine Readable Dictionary by Using Parallel Corpora"
+    authors: "<b>Martin Saveski</b>, Igor Trajkovski"
+    venue: "Proceedings of ICT Innovations Conference. 2010."
+    paper_pdf: "/assets/publications/2010_machine_readable_dictionaries/paper.pdf"
+    selected: n
