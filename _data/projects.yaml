@@ -6,9 +6,9 @@ projects:
     selected: y
 
   - title: "A novel Time-Frequency decomposition"
-    subtitle: "Tool for Mapping Social Networks"
-    # thumbnail: "assets/projects/2016_human-atlas/thumbnail.png"
-    # url: "projects/2016_human-atlas.html"
+    subtitle: "Transforming Time Series into Richer Images for Enhanced Classification"
+    thumbnail: "assets/projects/TimeFreqDecom/TFD.png"
+    url: "projects/TFD.html"
     selected: y
 
   - title: "Smart Pruning of Deep Neural Networks"
