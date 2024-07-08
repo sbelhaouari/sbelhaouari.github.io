@@ -12,15 +12,15 @@ projects:
     selected: y
 
   - title: "Smart Pruning of Deep Neural Networks"
-    subtitle: "Pilot project in Jun, Spain"
-    # thumbnail: "assets/projects/2015_jun/thumbnail.png"
-    # url: "projects/2015_jun.html"
+    subtitle: "Efficient Pruning of Deep Neural Networks Using Polynomial Curve Fitting and Evolutionary Algorithms"
+    thumbnail: "assets/projects/SmartPruning/smart.png"
+    url: "projects/smart.html"
     selected: y
 
   - title: "Divide well to merge better: A novel clustering algorithm"
-    subtitle: "Learning Local Collective Embeddings"
-    # thumbnail: "assets/projects/2014_item-cold-start/thumbnail.jpg"
-    # url: "projects/2014_item-cold-start.html"
+    subtitle: "An Enhanced Non-Parametric Approach for Optimized Clustering"
+    thumbnail: "assets/projects/DivideWellMerge/divide.png"
+    url: "projects/divide.html"
     selected: y
 
   - title: "KNNOR: An oversampling technique for imbalanced datasets"
