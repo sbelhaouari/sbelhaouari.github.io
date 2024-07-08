@@ -24,21 +24,21 @@ projects:
     selected: y
 
   - title: "KNNOR: An oversampling technique for imbalanced datasets"
-    subtitle: "Iterative Hybrid Algorithm"
-    # thumbnail: "assets/projects/2013_iterative-hybrid-algorithm/thumbnail.jpg"
-    # url: "projects/2013_iterative-hybrid-algorithm.html"
+    subtitle: "Enhancing Minority Class Representation in Imbalanced Datasets with Advanced K-Nearest Neighbor Oversampling"
+    thumbnail: "assets/projects/KNNOROversampling/knnor.png"
+    url: "projects/knnor.html"
     selected: y
 
   - title: "Unsupervised outlier detection in multidimensional data"
-    subtitle: "Analyzing Financial Tweets"
-    # thumbnail: "assets/projects/2011_twitter-sentiment-analysis/thumbnail.png"
-    # url: "projects/2011_twitter-sentiment-analysis.html"
+    subtitle: "Efficient and Robust Outlier Detection Using Unidimensional Distance Space and Joint Probability Density Estimation"
+    thumbnail: "assets/projects/UnsupervisedOutlier/outlier.png"
+    url: "projects/outlier.html"
     selected: y
 
   - title: "Multi-Cluster Jumping Particle Swarm Optimization for Fast Convergence"
-    subtitle: "Automatic Wordnet Construction using Language Models"
-    # thumbnail: "assets/projects/2010_wordnet-construction/thumbnail.jpg"
-    # url: "projects/2010_wordnet-contruction.html"
+    subtitle: "A Novel Approach for Fast Convergence in High-Dimensional Optimization"
+    thumbnail: "assets/projects/JumpingParticle/particle.png"
+    url: "projects/particle.html"
     selected: y
 
   - title: "Distance Based Joint Probability Density Estimation for Unsupervised Outlier Detection"
