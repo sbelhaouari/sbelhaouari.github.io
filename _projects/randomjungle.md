@@ -13,30 +13,32 @@ This thesis makes a significant contribution to the field of machine learning by
 **Test Strategies**
 
 $$trainingsum=training_{add}+training_{sub}+training_{mul} $$
+<br />
 $$f1sum=f1_{add}+f1_{sub}+f1_{mul}$$
+<br />
 $$puritysum=purity_{add}+purity_{sub}+purity_{mul}$$
 <br />
 *Strategy 1:*
+<br />
 $$
 \frac{\sum_{i \in \{add, sub, mul\}}(weight_i\times prob_i)}{weight_{add}+weight_{sub}+weight_{mul}}
 $$
 <br />
 *Strategy 2:*
-$$\frac{\sum_{i \in \{add, sub, mul\}}(precision_i+recall_i+f1_i)\times prob_i}{\sum_{i \in \{add, sub, mul\}}precision_i+recall_i+f1_i}$$
-*Strategy 3:*
-$$\sum_{i \in \{add, sub, mul\}}(\frac{training_i}{trainingsum}\times prob_i)$$
-
-
 <br />
-
-
+$$\frac{\sum_{i \in \{add, sub, mul\}}(precision_i+recall_i+f1_i)\times prob_i}{\sum_{i \in \{add, sub, mul\}}precision_i+recall_i+f1_i}$$
+<br />
+*Strategy 3:*
+<br />
+$$\sum_{i \in \{add, sub, mul\}}(\frac{training_i}{trainingsum}\times prob_i)$$
+<br />
 *Strategy 4:*
+<br />
 $$\frac{\sum_{i \in \{add, sub, mul\}}(weight_i\times prob_i)+(f1\times prob_i)}{\sum_{i \in \{add, sub, mul\}}weight_{i}+f1_{i}}$$
 <br />
 *Strategy 5:*
+<br />
 $$\sum_{i \in \{add, sub, mul\}}(\frac{training_{i}}{trainingsum}+\frac{f1_{i}}{f1sum}+\frac{purity_{i}}{puritysum})\times prob_i$$
-
-
 
 
 **Illustration of the proposed experimental design.** <br/>
