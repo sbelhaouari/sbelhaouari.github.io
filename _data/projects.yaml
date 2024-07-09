@@ -41,6 +41,13 @@ projects:
     url: "projects/particle.html"
     selected: y
 
+  - title: "Enhancing Random Forests with Smart Voting"
+    subtitle: "Innovations in the Random Jungle Algorithm"
+    thumbnail: "assets/projects/RandomJungle/RJ.png"
+    url: "projects/randomjungle.html"
+    selected: y
+
+
   - title: "Distance Based Joint Probability Density Estimation for Unsupervised Outlier Detection"
     subtitle: "Image processing class project"
     # thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
