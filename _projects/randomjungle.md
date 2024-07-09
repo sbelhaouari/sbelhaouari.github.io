@@ -1,7 +1,7 @@
 ---
 layout: project
-title: "Smart Pruning of Deep Neural Networks"	
-subtitle: "Efficient Pruning of Deep Neural Networks Using Polynomial Curve Fitting and Evolutionary Algorithms"
+title: "Enhancing Decision Trees: Smart Voting"	
+subtitle: "Innovations in the Random Jungle Algorithm"
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
@@ -11,21 +11,32 @@ This thesis explores the advancements in the Random Jungle algorithm through the
 This thesis makes a significant contribution to the field of machine learning by utilizing modern approaches. The insights it offers may be used to a variety of applications that need high-precision categorization. The results could have an impact on enhancing decision-making procedures and the accuracy of applications.
 
 **Test Strategies**
+
 $$trainingsum=training_{add}+training_{sub}+training_{mul} $$
 $$f1sum=f1_{add}+f1_{sub}+f1_{mul}$$
 $$puritysum=purity_{add}+purity_{sub}+purity_{mul}$$
+<br />
 *Strategy 1:*
 $$
 \frac{\sum_{i \in \{add, sub, mul\}}(weight_i\times prob_i)}{weight_{add}+weight_{sub}+weight_{mul}}
 $$
+<br />
 *Strategy 2:*
 $$\frac{\sum_{i \in \{add, sub, mul\}}(precision_i+recall_i+f1_i)\times prob_i}{\sum_{i \in \{add, sub, mul\}}precision_i+recall_i+f1_i}$$
 *Strategy 3:*
 $$\sum_{i \in \{add, sub, mul\}}(\frac{training_i}{trainingsum}\times prob_i)$$
+
+
+<br />
+
+
 *Strategy 4:*
 $$\frac{\sum_{i \in \{add, sub, mul\}}(weight_i\times prob_i)+(f1\times prob_i)}{\sum_{i \in \{add, sub, mul\}}weight_{i}+f1_{i}}$$
+<br />
 *Strategy 5:*
 $$\sum_{i \in \{add, sub, mul\}}(\frac{training_{i}}{trainingsum}+\frac{f1_{i}}{f1sum}+\frac{purity_{i}}{puritysum})\times prob_i$$
+
+
 
 
 **Illustration of the proposed experimental design.** <br/>
