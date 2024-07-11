@@ -67,15 +67,15 @@ papers:
 
   - title: "Progressive Fourier Transform (PFT): Enhancing Time-Frequency Representation of EEG signals for Stress and Seizure Detection"
     authors: "Nisreen S Amer, <b>Samir Brahim Belhaouari</b>, Halima Bensmail"
-    venue: "Nisreen S Amer, Samir Brahim Belhaouari, Halima Bensmail"
+    venue: "2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)"
     selected: y
 
-  - title: "Me, My Echo Chamber, and I: Introspection on Social Media Polarization"
-    authors: "Nabeel Gillani, Ann Yuan, <b>Martin Saveski</b>, Soroush Vosoughi, Deb Roy"
-    venue: "WWW'18: International Conference on the World Wide Web. 2018. <b>(Honarable mention)</b>"
-    paper_pdf: "/assets/publications/2018_social_mirror/paper.pdf"
-    video: "https://drive.google.com/file/d/0B9-P1m1JkZA7UTRuMUFWcTNueXM/view"
-    selected: n
+  - title: "Distance Based Joint Probability Density Estimation For Unsupervised Outlier Detection"
+    authors: "Atiq ur Rehman, <b>Samir Brahim Belhaouari</b>"
+    venue: "2021 IEEE Jordan International Joint Conference on Electrical Engineering and Information Technology (JEEIT)"
+    paper_pdf: "/assets/publications/2021/DBJp2021.pdf"
+    # video: "https://drive.google.com/file/d/0B9-P1m1JkZA7UTRuMUFWcTNueXM/view"
+    selected: y
 
   - title: "Detecting Network Effects: Randomizing Over Randomized Experiments"
     authors: "<b>Martin Saveski<sup>‡</sup></b>, Jean Pouget-Abadie<sup>‡</sup>, Guillaume Saint-Jacques, Weitao Duan, Souvik Ghosh, Ya Xu, Edo Airoldi"

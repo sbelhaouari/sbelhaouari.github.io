@@ -47,15 +47,8 @@ projects:
     url: "projects/randomjungle.html"
     selected: y
 
-
   - title: "Distance Based Joint Probability Density Estimation for Unsupervised Outlier Detection"
-    subtitle: "Image processing class project"
-    # thumbnail: "assets/projects/2010_fingerprint-verification/thumbnail.png"
-    # url: "projects/2010_fingerprint-verification.html"
-    selected: y
-
-  - title: "Feature extraction and Feature selection technique"
-    subtitle: "Iterative deepening and alpha-beta pruning"
-    # thumbnail: "assets/projects/2009_connect-four/thumbnail.png"
-    # url: "projects/2009_connect-four.html"
+    subtitle: "Advantages and Evaluation of the Proposed JPDE-DM Approach for Outlier Detection"
+    thumbnail: "assets/projects/2021_DBJP/dbjp_img.png"
+    url: "projects/2021_DBJP.html"
     selected: y
