@@ -52,3 +52,43 @@ projects:
     thumbnail: "assets/projects/2021_DBJP/dbjp_img.png"
     url: "projects/2021_DBJP.html"
     selected: y
+
+  - title: "Bird’s Eye View feature selection for high-dimensional data"
+    subtitle: "Evolutionary Algorithms and Reinforcement Learning for Effective High-Dimensional Feature Selection"
+    thumbnail: "assets/projects/BirdsEyeView/bev.png"
+    url: "projects/bev.html"
+    selected: n
+
+  - title: "From Collatz Conjecture to chaos and hash function"
+    subtitle: "Leveraging Chaotic Systems for Enhanced Hash Functions in Cryptographic Applications"
+    thumbnail: "assets/projects/CollatzHash/collatz.png"
+    url: "projects/collatz.html"
+    selected: n
+
+  - title: "Data Mining of Protein Sequences with Amino Acid Position-Based Feature Encoding Technique"
+    subtitle: "Novel Amino Acid Position-Based Encoding for Protein Sequence Classification"
+    selected: n
+
+  - title: "Advanced Statistical Metrics for Gas Identification System With Quantification Feedback"
+    subtitle: "Enhanced Gas Identification Using Cluster-k-NN and Advanced Statistical Metrics"
+    selected: n
+
+  - title: "A statistical based feature extraction method for breast cancer diagnosis in digital mammogram using multiresolution representation"
+    subtitle: "Optimizing Mammogram Analysis with Multiresolution Feature Extraction"
+    selected: n
+
+  - title: "Computer Aided Diagnosis System based on Machine Learning Techniques for Lung Cancer"
+    subtitle: "Improving Lung Cancer Detection Using Wavelet-Based Feature Extraction and Cluster-KNN"
+    selected: n
+
+  - title: "IJCB 2022 Mobile Behavioral Biometrics Competition (MobileB2C)"
+    subtitle: "Benchmarking Mobile Behavioral Biometrics for Continuous Authentication"
+    selected: n
+
+  - title: "Efficient Feature Selection and Classification of Protein Sequence Data in Bioinformatics"
+    subtitle: "Enhanced Accuracy in Protein Classification via Statistical Metric-Based Feature Selection"
+    selected: n
+
+  - title: "Distance Based Joint Probability Density Estimation for Unsupervised Outlier Detection"
+    subtitle: "Reusable, Energy-Efficient WSN for Real-Time Water Quality Monitoring"
+    selected: n
