@@ -67,14 +67,20 @@ projects:
 
   - title: "Data Mining of Protein Sequences with Amino Acid Position-Based Feature Encoding Technique"
     subtitle: "Novel Amino Acid Position-Based Encoding for Protein Sequence Classification"
+    thumbnail: "assets/projects/ProteinSequenceMining/psm.png"
+    url: "projects/psm.html"
     selected: n
 
   - title: "Advanced Statistical Metrics for Gas Identification System With Quantification Feedback"
     subtitle: "Enhanced Gas Identification Using Cluster-k-NN and Advanced Statistical Metrics"
+    thumbnail: "assets/projects/GasIndentification/gas.png"
+    url: "projects/gas.html"
     selected: n
 
   - title: "A statistical based feature extraction method for breast cancer diagnosis in digital mammogram using multiresolution representation"
     subtitle: "Optimizing Mammogram Analysis with Multiresolution Feature Extraction"
+    thumbnail: "assets/projects/MammogramFeatureExtraction/mfe.png"
+    url: "projects/mfe.html"
     selected: n
 
   - title: "Computer Aided Diagnosis System based on Machine Learning Techniques for Lung Cancer"
