@@ -85,10 +85,14 @@ projects:
 
   - title: "Computer Aided Diagnosis System based on Machine Learning Techniques for Lung Cancer"
     subtitle: "Improving Lung Cancer Detection Using Wavelet-Based Feature Extraction and Cluster-KNN"
+    thumbnail: "assets/projects/MachineLearningDetection/mldetection.png"
+    url: "projects/mldetection.html"
     selected: n
 
   - title: "IJCB 2022 Mobile Behavioral Biometrics Competition (MobileB2C)"
     subtitle: "Benchmarking Mobile Behavioral Biometrics for Continuous Authentication"
+    thumbnail: "assets/projects/IJCB2022/ijcb.png"
+    url: "projects/ijcb.html"
     selected: n
 
   - title: "Efficient Feature Selection and Classification of Protein Sequence Data in Bioinformatics"
