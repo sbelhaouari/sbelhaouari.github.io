@@ -97,8 +97,12 @@ projects:
 
   - title: "Efficient Feature Selection and Classification of Protein Sequence Data in Bioinformatics"
     subtitle: "Enhanced Accuracy in Protein Classification via Statistical Metric-Based Feature Selection"
+    thumbnail: "assets/projects/ProteinFeatureSelection/protein.png"
+    url: "projects/protein.html"
     selected: n
 
-  - title: "Distance Based Joint Probability Density Estimation for Unsupervised Outlier Detection"
+  - title: "An Efficient Wireless Sensor Network-based Water Quality Monitoring System"
     subtitle: "Reusable, Energy-Efficient WSN for Real-Time Water Quality Monitoring"
+    thumbnail: "assets/projects/WaterQualityMonitoring/monitoring.png"
+    url: "projects/monitoring.html"
     selected: n
