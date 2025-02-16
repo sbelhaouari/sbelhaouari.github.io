@@ -1,4 +1,10 @@
 projects:
+  - title: "Bio-Inspired Adaptive Neurons For Dynamic Weighting In Artificial Neural Networks"
+    subtitle: "Bridging the Gap Between Biological and Artificial Neurons Through Adaptive Weighting"
+    thumbnail: "assets/projects/inputDepWeighting/saheart_combined_plot.png"
+    url: "projects/inputDepWeighting.html"
+    selected: y
+
   - title: "MADL: A Multilevel Architecture of Deep Learning"
     subtitle: "Improving CNN Performance with Multilevel Deep Learning Architecture (MADL)"
     thumbnail: "assets/projects/MADL/madl1.png"

@@ -1,5 +1,11 @@
 papers:
 
+  - title: "Bio-Inspired Adaptive Neurons For Dynamic Weighting In Artificial Neural Networks"
+    authors: "Ashhadul Islam,  Abdesselam Bouzerdoum and <b>Samir Brahim Belhaouari</b>"
+    venue: "arXiv, submitted to AI Open"
+    paper_pdf: "/assets/publications/2024/inputDepWeighting.pdf"
+    selected: y
+
   - title: "Oversampling techniques for imbalanced data in regression"
     authors: "<b>Belhaouari, Samir Brahim</b>, Ashhadul Islam, Khelil Kassoul, Ala Al-Fuqaha, and Abdesselam Bouzerdoum"
     venue: "Expert Systems with Applications 252 (2024): 124118"
